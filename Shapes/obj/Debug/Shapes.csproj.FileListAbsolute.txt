@@ -1,0 +1,6 @@
+C:\Users\PC-PC\Desktop\04. Encapsulation-and-Polymorphism-Homework\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\PC-PC\Desktop\04. Encapsulation-and-Polymorphism-Homework\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Desktop\04. Encapsulation-and-Polymorphism-Homework\Shapes\bin\Debug\Shapes.exe
+C:\Users\PC-PC\Desktop\04. Encapsulation-and-Polymorphism-Homework\Shapes\bin\Debug\Shapes.pdb
+C:\Users\PC-PC\Desktop\04. Encapsulation-and-Polymorphism-Homework\Shapes\obj\Debug\Shapes.exe
+C:\Users\PC-PC\Desktop\04. Encapsulation-and-Polymorphism-Homework\Shapes\obj\Debug\Shapes.pdb
